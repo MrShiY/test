@@ -16,15 +16,14 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-
+    //2
 //3
-
 }
 
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
-    // Disposou   rces that can be recreated.
+    // Dispose of any resources that can be recreated.
 }
 
 
