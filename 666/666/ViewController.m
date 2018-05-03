@@ -24,7 +24,7 @@
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
-    // Disposources that can be recreated.
+    // Disposou   rces that can be recreated.
 }
 
 
